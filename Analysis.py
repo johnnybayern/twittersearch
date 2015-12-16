@@ -3,6 +3,8 @@
 ## Developer : Sagar Jha
 ## Update : Dialogbox to ask for file , Dt: 02-25-2015
 
+#CHanges 
+
 import nltk  #install nltk inadvance
 from nltk import FreqDist
 import csv
